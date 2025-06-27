@@ -1,5 +1,4 @@
 H&M Ecommerce
-..........................................................................................................................................................................................
 
 mongoDB atles   MONGO_URI = mongodb+srv://hashimwindows:dtWAteQuCpHcBTdM@express-ecommerce.7ekkt.mongodb.net/?retryWrites=true&w=majority&appName=express-ecommerce
 
